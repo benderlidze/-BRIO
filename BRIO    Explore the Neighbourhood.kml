@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BRIO  |  Explore the Neighbourhood</name>
+    <description><![CDATA[What's in the neighbourhood]]></description>
+    <NetworkLink>
+      <name>BRIO  |  Explore the Neighbourhood</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1Xd3Scd6Niktkea3m5IQiQN031au5i_U7]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
